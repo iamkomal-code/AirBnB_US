@@ -2,7 +2,7 @@
   # Problem Statement
   With this dataset we aim to develop a reliable price prediction model using machine learning and data processing techniques to aid new property owners with pricing of their property with aim to make the pricing both competitive and profitable for the new owner
   
-  # Appoach
+  # Approach
   
    * BUSINESS UNDERSTANDING  will start by understanding the rules and business objectives of Airbnb.
    * UNDERSTANDING DATA Next step would beto collect the relevant data, describing the data and exploring the data.
